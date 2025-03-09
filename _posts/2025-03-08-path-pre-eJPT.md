@@ -7,7 +7,7 @@ date: '2025-03-08 14:35:23 +0530'
 category: learning
 thumbnail: /assets/img/posts/ejpt.png
 keywords: ejpt path, mi guía, mis recursos, metodologías
-permalink: /blog/welcome-to-devlopr-jekyll/
+permalink: /blog/path-pre-eJPT/
 usemathjax: true
 ---
 
