@@ -175,7 +175,7 @@
             var chars = text.split('');
             chars.forEach(function(char, index){
                 $(settings.el).delay(settings.speed).queue(function (next){
-                    var text = $(this).html() + char;
+                    var text = $(this).html() + '<span style="color: red;">' + char + '</span>';
                     $(this).html(text);
                     next();
 
